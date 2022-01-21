@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { DragDropContext } from 'react-beautiful-dnd';
+import React from 'react';
 import MaterialTable from './components/materialTable';
 
 export interface defaultListObjectType {
